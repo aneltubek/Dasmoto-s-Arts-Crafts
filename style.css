@@ -33,6 +33,16 @@ h1 {
     font-weight: bold;
 }
 
+/*change font-family of paragraph*/
+.brush_section p,
+.frames_section p,
+.paint_section p {
+    font-family: Helvetica;
+}
+
+
+
+
 /*change text color to blue*/
 .brush_section p text,
 .frames_section p text,
