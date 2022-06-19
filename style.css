@@ -25,16 +25,18 @@ h1 {
     color: white;
 }
 
-/*Brushes title and paragraph */
+/*Brushes  + art_frames title and paragraph */
 .Hacksaw_Brushes,
-.art_frames {
+.art_frames,
+.paint_finnish {
     font-family: Helvetica;
     font-weight: bold;
 }
 
 /*change text color to blue*/
 .brush_section p text,
-.frames_section p text{
+.frames_section p text,
+.paint_section p text {
     font-family: Helvetica;
     font-weight: bold;
     color: blue;
@@ -44,6 +46,17 @@ h1 {
 /*Art Frames section*/
 .frames {
     background-color: lightcoral;
+    width:100%;
+    height: auto;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+/*Paint section*/
+.paint {
+    background-color: skyblue;
     width:100%;
     height: auto;
     font-family: Helvetica;
