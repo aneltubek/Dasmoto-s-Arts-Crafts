@@ -26,14 +26,28 @@ h1 {
 }
 
 /*Brushes title and paragraph */
-.Hacksaw_Brushes {
+.Hacksaw_Brushes,
+.art_frames {
     font-family: Helvetica;
     font-weight: bold;
 }
 
 /*change text color to blue*/
-.brush_section p text{
+.brush_section p text,
+.frames_section p text{
     font-family: Helvetica;
     font-weight: bold;
     color: blue;
+}
+
+
+/*Art Frames section*/
+.frames {
+    background-color: lightcoral;
+    width:100%;
+    height: auto;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
 }
