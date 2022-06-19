@@ -1,0 +1,16 @@
+body{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    background-image: url('https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg?_gl=1*tw6n0o*_ga*MTkzODM0NDA1OS4xNjQ0ODE4NDI0*_ga_3LRZM6TM9L*MTY1NTYxMDAwMy4xMTMuMS4xNjU1NjEwMDYwLjM');
+    width:100%;
+    height: auto;
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
