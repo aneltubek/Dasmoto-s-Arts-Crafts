@@ -14,7 +14,7 @@ h1 {
     color: khaki;
     text-align: center;
 }
-
+/*Brushes section*/
 .brushes {
     background-color: mediumspringgreen;
     width:100%;
@@ -25,7 +25,15 @@ h1 {
     color: white;
 }
 
+/*Brushes title and paragraph */
 .Hacksaw_Brushes {
     font-family: Helvetica;
     font-weight: bold;
+}
+
+/*change text color to blue*/
+.brush_section p text{
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
 }
